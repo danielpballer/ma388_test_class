@@ -15,6 +15,7 @@ library(Lahman)
 library(knitr)
 library(broom)
 library(ggrepel)
+library(skimr)
 ```
 
 ## Review
